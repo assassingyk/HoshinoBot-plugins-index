@@ -22,7 +22,7 @@
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
-| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-13 07:11:12|
+| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-22 11:57:50|
 | [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
@@ -34,7 +34,7 @@
 | [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2023-01-26 05:28:47|
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
-| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2023-07-14 16:12:21|
+| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2023-07-17 22:13:08|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
@@ -60,7 +60,7 @@
 | [重开设定](https://github.com/pcrbot/remake_setting) | [@chu3](https://github.com/chu3)  | 重开设定图片版 |2022-08-31 00:32:04|
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
-| [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
+| [鉴定群友](https://github.com/pcrbot/determine) <!--cont.-->| [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-04-08 13:56:08|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
