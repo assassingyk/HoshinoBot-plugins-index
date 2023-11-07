@@ -143,7 +143,7 @@
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
 | [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
-| [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) <!--cont.-->| [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
+| [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
@@ -158,7 +158,7 @@
 | [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
 | [百度一下](https://github.com/Soung2279/baidu_search) | [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
 | [可爱小七海语音♥](https://github.com/Soung2279/NANA7MI_REC) | [@Soung2279](https://github.com/Soung2279) | 是 可爱小七海 的语音♥~~ 群聊中发送 七海Nana7mi 有关的 切片语音/古神语/怪话合集/各种不能转的二创 |2021-10-30 12:19:10|
-| [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
+| [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
 | [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
 | [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
