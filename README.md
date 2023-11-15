@@ -23,7 +23,7 @@
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
 | [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-26 10:20:13|
-| [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
+| [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-11-12 01:35:21|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
@@ -36,7 +36,7 @@
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
 | [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2023-07-17 22:13:08|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
-| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
+| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2023-11-12 15:52:28|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
@@ -53,7 +53,7 @@
 |[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |2022-11-05 10:02:29|
 |[反馈与回复](https://github.com/pcrbot/feedback-and-reply)|[@chu3](https://github.com/chu3)|带回复功能的来杯咖啡|2022-09-16 17:37:00|
-|[又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate)|[@corvo007](https://github.com/corvo007)|如名字所示|2022-09-11 23:07:16|
+|[又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate)<!--cont.-->|[@corvo007](https://github.com/corvo007)|如名字所示|2022-09-11 23:07:16|
 | [哔咔漫画](https://github.com/Soung2279/pica) | [@Soung](https://github.com/Soung2279)  | 适用于HoshinoV2的哔咔漫画 |2023-01-12 20:48:57|
 | [风控冻结自动切号](https://github.com/othinus001/txcnm) | [@othinus001](https://github.com/othinus001) | 通过读gocq的日志，解决色图和会战风控被冻的需求，2-3个号就够了，只要号多就腾讯就赶不上我风控的速度|2022-09-21 00:25:59|
 | [网页截图修补版](https://github.com/kcn3388/pagecut) | [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br>增加爬取网页源代码或js变量以辅助爬虫 |2022-09-01 09:40:04|
