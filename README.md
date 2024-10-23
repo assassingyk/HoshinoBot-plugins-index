@@ -48,7 +48,7 @@
 | [龙图检测](https://github.com/Mzmba/dragon_killer) | [@Mzmba](https://github.com/Mzmba) | 基于opencv的龙图检测插件，代码待优化 |2022-09-24 21:27:28|
 | [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2023-08-29 17:44:48|
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
-| [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2022-12-09 04:09:12|
+| [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2024-10-20 12:23:05|
 |[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
 |[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |2022-11-05 10:02:29|
@@ -65,7 +65,7 @@
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2024-03-19 10:23:18|
-| [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
+| [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) <!--cont.-->| [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 |2022-07-23 13:23:55|
 | [今日运势多合一](https://github.com/SonderXiaoming/portune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 融合了原神，pcr，东方，赛马娘四个主题 |2022-12-01 10:20:58|
 | [签到奖励魔改版](https://github.com/SonderXiaoming/login_bonus) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 新增40种印章，收集册，改自原生插件 |2022-08-21 15:30:31|
