@@ -164,7 +164,7 @@
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
 | [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
-| [Hoshino语音增强](https://github.com/Soung2279/advance_R) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
+| [Hoshino语音增强](https://github.com/Soung2279/advance_R) | [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
 | [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |2021-09-15 21:24:47|
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2024-01-18 10:37:30|
@@ -180,7 +180,7 @@
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
 | [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2025-05-27 16:31:26|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2025-07-17 01:32:31|
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2025-08-04 00:17:04|
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
@@ -247,7 +247,7 @@
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
 | [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
 | [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24 11:26:01|
-| [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
+| [表情包生成器](https://github.com/pcrbot/image-generate) <!--cont.-->| [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
 | [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 |2022-11-12 18:59:28|
 | [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-11-12 18:59:28|
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
