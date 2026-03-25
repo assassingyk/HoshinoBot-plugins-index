@@ -146,7 +146,7 @@
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2025-01-26 11:28:56|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
-| [mc数据查询推送](https://github.com/azmiao/mc_status) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
+| [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
@@ -221,7 +221,7 @@
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
-| [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
+| [clanbattle_report](https://github.com/zyujs/clanbattle_report) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
 | [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
