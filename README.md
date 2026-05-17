@@ -63,7 +63,7 @@
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-11-26 11:40:14|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
-| [出刀记录图片版](https://github.com/othinus001/Daidao) <!--cont.-->| [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
+| [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2024-03-19 10:23:18|
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 |2022-07-23 13:23:55|
@@ -119,7 +119,7 @@
 | [一穿二补偿计算](https://github.com/CCA2878/Simple1kill2) | [@CCA2878](https://github.com/CCA2878) | 计算填补一穿二到底要填多少伤害。 |2022-01-25 19:34:48|
 | [群聊关键消息记录](https://github.com/CYDXDianXian/chat_count) | [@CYDXDianXian](https://github.com/CYDXDianXian) | 该插件可记录群聊中某关键字的触发次数、时间、与完整消息，并可对储存记录的消息方便的进行读取，以查看群友们都围绕该关键字说了什么 |2022-03-09 17:12:58|
 | [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) | [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
-| [嘉心糖爬](https://github.com/qiandeng1/antiasoul) | [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
+| [嘉心糖爬](https://github.com/qiandeng1/antiasoul) <!--cont.-->| [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
 | [疫情出行政策查询](https://github.com/SlightDust/travelpolicy_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询疫情出行政策。年关将至大家注意安全做好个人防护。 |2022-01-13 21:56:28|
 | [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
 | [祖安宝典](https://github.com/zangxx66/zuanDictionary) | [@zangxx66](https://github.com/zangxx66) | 口吐芬芳宝典词库 |2022-01-09 02:51:53|
