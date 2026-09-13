@@ -147,7 +147,7 @@
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2025-01-26 11:28:56|
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
-| [autocb](https://github.com/yoooowi/pcr_autocb) <!--cont.-->| [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
+| [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
@@ -196,7 +196,7 @@
 | [词云](https://github.com/erweixi/wordcloud-hoshino) | [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
 |[steam_crawler_bot](https://github.com/half-ghost/steam_crawler_bot)|[@half-ghost](https://github.com/half-ghost)|steam爬虫插件，拥有的功能为：以steam和小黑盒官网作为数据来源，爬取游戏搜索结果、steam游戏特惠、新品等信息。以it之家为数据来源的喜加一信息爬取。|2022-02-26 15:02:31|
 | [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2023-03-21 11:26:25|
-| [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2024-06-20 16:57:48|
+| [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) <!--cont.-->| [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2024-06-20 16:57:48|
 |[积分系统(底层方法实现)](https://github.com/pcrbot/scoresystem)| [@corvo007](https://github.com/corvo007)|积分系统(底层方法实现)|2023-10-23 22:45:01|
 | [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
